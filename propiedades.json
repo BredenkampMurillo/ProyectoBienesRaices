@@ -1,0 +1,59 @@
+{
+    "propiedades": [
+        {
+            "tipo": "Venta",
+            "clasificacion": "Casa",
+            "descripcion": "Casas en Guácima | Casa de 3 habitaciones, Guácima centro",
+            "imagen": "http://127.0.0.1:5500/imagenes/CasaGuacima.png",
+            "precio": 139900,
+            "detalle": {
+                "area":114,
+                "cuartos":3,
+                "pisos":1,
+                "garaje":2
+            }
+            
+        },
+        {
+            "tipo": "Venta",
+            "clasificacion": "Casa",
+            "descripcion": "Casas en Heredia provincia | Espectacular casa la venta en Heredia",
+            "imagen": "http://127.0.0.1:5500/imagenes/CasaHeredia.png",
+            "precio": 450000,
+            "detalle": {
+                "area":500,
+                "cuartos":4,
+                "pisos":3,
+                "garaje":4
+            }
+            
+        },
+        {
+            "tipo": "Venta",
+            "clasificacion": "Casa",
+            "descripcion": "Casas en Tamarindo | Casa con piscina + 2 apartamentos con muy buenos ingresos",
+            "imagen": "http://127.0.0.1:5500/imagenes/CasaTamarindo.png",
+            "precio": 469990,
+            "detalle": {
+                "area":275,
+                "cuartos":5,
+                "pisos":1,
+                "garaje":1
+            }
+            
+        },
+        {
+            "tipo": "Venta",
+            "clasificacion": "Casa",
+            "descripcion": "Casas en San Rafael | Escazu: Trejos- 3 habitaciones + Servicio - Ubicación Excelente",
+            "imagen": "http://127.0.0.1:5500/imagenes/CasaSanRafael.png",
+            "precio": 225000,
+            "detalle": {
+                "area":164,
+                "cuartos":3,
+                "pisos":2,
+                "garaje":2
+            }
+        } 
+   ]
+}

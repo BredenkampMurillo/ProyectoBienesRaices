@@ -1,0 +1,47 @@
+/* Estilo general para la sección de ubicación */
+#ubicacion{
+    justify-content: center;
+}
+#map {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+    margin-bottom: 20px;
+}
+
+#map h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+
+}
+
+ #map {
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    height: 400px; 
+    width: 100%;   
+}
+
+#map input#place-input {
+    margin-right: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+}
+
+#calc {
+    padding: 8px 16px;
+    background-color: #2b642d; 
+    color: #fff; 
+    border: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+    margin-left: 15px;
+    justify-content: center;
+    
+}
+
+#calc:hover {
+    background-color: #1e4720;
+}
