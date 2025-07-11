@@ -1,7 +1,7 @@
 //PARTE DE LAS PROPIEDADES
 
 $(document).ready(function () {
-    const apiURL = "http://127.0.0.1:5500/propiedades.json";
+    const apiURL = "./propiedades.json";
     function fetchProperties() {
       $.ajax({
         url: apiURL,
